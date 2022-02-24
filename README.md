@@ -1,1 +1,1 @@
-# Put here info about project
+# Making Food landing page css html only
